@@ -16,3 +16,5 @@ https://huggingface.co/squarelike/ggml-polyglot-ko-12.8b-q4/tree/main
 
 Try this ASAP
 https://huggingface.co/myeolinmalchi/ggml-korean-vicuna-7b-1.1/tree/main
+Try this too
+https://huggingface.co/edp1096/korean-vicuna-7b-1.1-ggml/tree/main
