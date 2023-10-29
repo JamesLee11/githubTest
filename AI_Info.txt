@@ -1,8 +1,6 @@
 Ai 언어모델 로컬 채널
 https://arca.live/b/alpaca/76277893
 
-
-
 Table Question & Answer
 https://www.youtube.com/watch?v=s4rV6Wyp23A
 Building a Question-Answer Bot With Langchain, Vicuna, and Sentence Transformers
@@ -15,3 +13,6 @@ https://www.youtube.com/watch?v=cVA1RPsGQcw
 Korean GGML version
 https://huggingface.co/squarelike
 https://huggingface.co/squarelike/ggml-polyglot-ko-12.8b-q4/tree/main
+
+Try this ASAP
+https://huggingface.co/myeolinmalchi/ggml-korean-vicuna-7b-1.1/tree/main
